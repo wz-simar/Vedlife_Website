@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wellnessz.ayufit",
+      "sha256_cert_fingerprints": [
+        "E7:FA:8A:2D:DF:D4:ED:0F:F0:06:DC:05:40:21:34:9B:F1:EA:B0:01:CB:C7:31:3A:43:D7:07:A3:23:5C:1B:43"
+      ]
+    }
+  }
+]
