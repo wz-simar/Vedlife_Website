@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["YB5RW5JH8M.com.wellnessz.ayufit"],
+        "appIDs": ["YB5RW5JH8M.com.wellnessz.vedlife"],
         "paths": ["/app/*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["YB5RW5JH8M.com.wellnessz.ayufit"]
+    "apps": ["YB5RW5JH8M.com.wellnessz.vedlife"]
   }
 }

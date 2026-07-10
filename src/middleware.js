@@ -1,9 +1,9 @@
 import { NextResponse } from 'next/server';
 
 const PLAY_STORE_URL =
-  'https://play.google.com/store/apps/details?id=com.wellnessz.ayufit&hl=en_ZA';
+  'https://play.google.com/store/apps/details?id=com.wellnessz.vedlife';
 const APP_STORE_URL =
-  'https://apps.apple.com/us/app/ayufit/id6771292004';
+  'https://apps.apple.com/id/app/vedlife-nutriclub/id6775767468';
 
 const IOS_REGEX = /iPhone|iPad|iPod/i;
 const ANDROID_REGEX = /Android/i;

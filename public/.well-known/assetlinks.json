@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.ayufit",
+      "package_name": "com.wellnessz.vedlife",
       "sha256_cert_fingerprints": [
-        "E7:FA:8A:2D:DF:D4:ED:0F:F0:06:DC:05:40:21:34:9B:F1:EA:B0:01:CB:C7:31:3A:43:D7:07:A3:23:5C:1B:43"
+        "79:FE:EB:F3:E4:0E:E9:38:9B:3C:42:4F:01:26:10:35:60:B1:F0:A6:61:48:62:FF:22:2A:13:66:B6:55:CB:18"
       ]
     }
   }
